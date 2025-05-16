@@ -1,7 +1,7 @@
 # Forensix
 A powerful and interactive Project built in Python for SOC analysts, incident responders, and threat hunters. This tool enables real-time investigation and threat response on Windows systems using a structured, menu-driven interface.
 
-![Untitled](https://github.com/user-attachments/assets/cdc515c5-9a60-4848-a909-aad84b25c80c)
+![Forensix Tool](https://github.com/user-attachments/assets/7e1bd8e6-d517-47dc-b048-31e57158897e)
 
 ---
 
@@ -57,4 +57,4 @@ A powerful and interactive Project built in Python for SOC analysts, incident re
 - PowerShell 5.1+
 - Python3
 ---
-![Forensix Tool](https://github.com/user-attachments/assets/7e1bd8e6-d517-47dc-b048-31e57158897e)
+![Untitled](https://github.com/user-attachments/assets/cdc515c5-9a60-4848-a909-aad84b25c80c)
