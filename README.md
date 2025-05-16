@@ -58,3 +58,4 @@ A powerful and interactive Project built in Python for SOC analysts, incident re
 - Python3
 ---
 ![Untitled](https://github.com/user-attachments/assets/cdc515c5-9a60-4848-a909-aad84b25c80c)
+ 🔍 Happy Investigating! Stay curious, stay safe.
